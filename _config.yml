@@ -22,8 +22,8 @@ author:
 navbar-links:
   북클럽 소개: "북클럽 소개"
   학생 올리미:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - 학생 지침: "https://beautifuljekyll.com"
+    - 숙제 게시판: "https://www.markdowntutorial.com/"
   블로그: "https://deanattali.com"
 
 ################
