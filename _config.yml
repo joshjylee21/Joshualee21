@@ -13,7 +13,7 @@
 title: 헤세드 북클럽
 
 # Your name to show in the footer
-author: 
+author: 쉽고 재미있는 영어독서
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -98,7 +98,7 @@ excerpt_length: 50
 feed_show_excerpt: true
 
 # Whether or not to show a list of tags below each post preview in the feed page
-feed_show_tags: true
+feed_show_tags: false
 
 # Add a search button to the navbar
 post_search: true
