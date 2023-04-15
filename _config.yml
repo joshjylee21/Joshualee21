@@ -20,7 +20,7 @@ author:
 ###############################################
 
 navbar-links:
-  북클럽 소개: "북클럽 소개"
+  북클럽 소개: "aboutme.md"
   학생 올리미:
     - 학생 지침: "https://beautifuljekyll.com"
     - 숙제 게시판: "https://www.markdowntutorial.com/"
