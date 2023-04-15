@@ -1,16 +1,16 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: 북클럽 소개
+subtitle: 헤세드 북클럽은 학생을 돕습니다. 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+헤세드 북클럽은 깊은 독서를 추구합니다. 기독교 세계관을 가지고 어떤 책이든 바로 볼 수 있게 돕습니다. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- 깊은 독서, 나눔
+- 대학교 레시테이션 스타일 
 
-What else do you need?
 
-### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### 헤세드 북클럽 스토리 
+
+2019년, 고전교육을 받기 시작하며 학교에서 배우는 어떤 것보다, 깊은 독서와 그것을 나누는 능력의 중요성을 알게 되었습니다.
